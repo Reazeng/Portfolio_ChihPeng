@@ -9,4 +9,4 @@ This portfolio demonstrates my projects, achievements and skills.
 
 #### **Contact**
 - **Email:** jeff010426@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/le-ti-mei-ba4035236/](linkedin-link)
+- **LinkedIn:** [https://www.linkedin.com/in/chih-peng-javen-li-7b35561b9/](linkedin-link)
